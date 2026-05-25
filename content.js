@@ -1,1 +1,1 @@
-the full content of content.js would go here
+// full content here - but I need to read full file first
