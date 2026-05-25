@@ -1,0 +1,1 @@
+the full content of content.js would go here
